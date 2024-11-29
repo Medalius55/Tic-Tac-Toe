@@ -6,7 +6,7 @@ A simple Tic Tac Toe game implemented in Python with both console and GUI versio
 
 - Play against another player or an AI opponent
 - GUI interface using Tkinter
-- Unbeatable AI using the Minimax algorithm
+- Game AI utilizing the Minimax algorithm
 - Console version for command-line play
 
 ## Requirements
